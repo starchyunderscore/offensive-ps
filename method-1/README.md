@@ -5,3 +5,5 @@ If you want to see an example in action, you can run the included script, **afte
 ```PowerShell
 irm https://raw.githubusercontent.com/starchyunderscore/offensive-ps/main/method-1/run.ps1 | iex
 ```
+
+The included example runs a few Write-Output commands, then exits the powershell window. Ten seconds later, the calculator will pop up.
